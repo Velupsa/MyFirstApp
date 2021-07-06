@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="welcome_msg">Bienvenue</string>
+    <string name="points_msg">Points :0</string>
+    <string name="btnname">Button</string>
+    <string name="dynamicText">Ceci est un texte cool</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+</resources>
